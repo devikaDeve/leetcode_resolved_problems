@@ -1,1 +1,1 @@
-This folder showcases, the list of problems solved on leetcode platform.
+This folder showcases, number of leetcode problems solved.
